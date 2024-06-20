@@ -143,7 +143,7 @@ nav .container .b a:hover {
   padding-bottom: 2px;
 }
 .section2 .container .cards .card img {
-  width: 364.6px;
+  width: 100%;
   height: 330px;
   object-fit: cover;
 }
